@@ -1,3 +1,8 @@
+![Digram!](src/main/resources/static/Photo/Diagram.drawio.png)
+Here is a diagram of how it works
+
+
+
 Java application code for a Spring Boot 3+, Spring Data JPA, Spring Security, Spring Web, and OAuth2Resource server application which allows users to login or register using HTTP POST requests, then view endpoints based on their roles.
 
 Users are authenticated against a database using a custom UserDetailsService and AuthenticationManager along with Spring Data JPA repositories.
